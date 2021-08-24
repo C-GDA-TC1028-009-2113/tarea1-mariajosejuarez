@@ -10,8 +10,7 @@ input_values = [
         ["Dame tu edad: ", "Dame el año actual: ", "Cumplirás 100 años en el año: 2016"],
         # Error message
         "Revisa los tipos de dato de tus variables. Revisa tus cálculos."
-    ),
-    (
+    )
         # Inputs
         ["0", "2000"],
         # Outputs
